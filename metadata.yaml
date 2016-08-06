@@ -1,0 +1,30 @@
+_repo: Jimgrim-and-Allah-s-Peace_11357
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mundy, Talbot
+    alias: Gribbon, William Lancaster
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '1481'
+    url: http://www.gutenberg.org/2009/agents/1481
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Mundy
+description: Featuring James Schuyler Grim, better known as Jimgrim. Jimgrim is an
+  American secret service agent employed by the British and stationed in the Mid-East.
+  His adventures include protecting British interests against the French and other
+  countries meddling in the region following World War I.
+gutenberg_bookshelf: Adventure
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Jerusalem -- Fiction'
+- GITenberg
+title: Jimgrim and Allah's Peace
+url: http://www.gutenberg.org/ebooks/11357
