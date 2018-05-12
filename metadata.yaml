@@ -1,5 +1,8 @@
 _repo: Jimgrim-and-Allah-s-Peace_11357
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mundy, Talbot
@@ -13,6 +16,8 @@ description: Featuring James Schuyler Grim, better known as Jimgrim. Jimgrim is 
   American secret service agent employed by the British and stationed in the Mid-East.
   His adventures include protecting British interests against the French and other
   countries meddling in the region following World War I.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11357#Jimgrim-and-Allah-s-Peace
 gutenberg_bookshelf: Adventure
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
